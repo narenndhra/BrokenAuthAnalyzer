@@ -1,0 +1,2 @@
+# This Burp Extension runs in Jython environment
+# Make sure to configure Jython 2.7.x in Burp Suite
