@@ -1,6 +1,5 @@
 # BrokenAuth Analyzer (Burp Suite Extension)
 
-![Logo](./assets/logo.png)
 
 ## 🔍 Overview
 BrokenAuth Analyzer is a **Burp Suite Extension** designed to help penetration testers identify **Broken Authentication** vulnerabilities. It automates header manipulation techniques to detect improper session handling and authentication weaknesses.
@@ -29,9 +28,9 @@ BrokenAuth Analyzer is a **Burp Suite Extension** designed to help penetration t
 ---
 
 ## ▶️ Usage
-- Navigate to **ES BrokenAuth Analyzer** tab in Burp.
+- Navigate to **BrokenAuth Analyzer** tab in Burp.
 - Send HTTP requests to the extension:
-  - **Manual Mode**: Right-click any request → `Send to ES BrokenAuth Analyzer`.
+  - **Manual Mode**: Right-click any request → `Send to BrokenAuth Analyzer`.
   - **Auto Mode**: Enable `Auto Scan` in settings to scan Proxy/History requests automatically.
 
 ---
@@ -42,15 +41,10 @@ BrokenAuth Analyzer is a **Burp Suite Extension** designed to help penetration t
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here)*
-
----
-
 ## 🔒 Disclaimer
 This tool is for **authorized security testing only**. Do not use it on systems without permission.
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License.
+## 👨‍💻 Author
+Developed by Your Narendra Reddy
