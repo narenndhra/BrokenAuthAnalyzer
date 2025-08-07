@@ -47,4 +47,4 @@ This tool is for **authorized security testing only**. Do not use it on systems 
 ---
 
 ## 👨‍💻 Author
-Developed by Your Narendra Reddy
+Developed by Your Narendra Reddy (Entersoft Security)
