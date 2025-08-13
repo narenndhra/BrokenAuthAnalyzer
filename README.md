@@ -159,22 +159,6 @@ _No external pip packages required._
 
 ---
 
-## 🧰 Troubleshooting
-
-- **Not seeing rows for a method?** The request must include one of the **selected session headers**; only present headers are mutated.
-- **Save CSV/JSON doesn’t appear?** Check write permissions; the tool falls back from script dir → CWD → user home.
-- **CSV shows weird characters?** Files are UTF-8; open with an editor that supports UTF-8 or import explicitly as UTF-8.
-
----
-
 ## 👤 Author
 
 **Narendra Reddy (Entersoft Security)**
-
-Contributions and feedback welcome.
-
----
-
-## 📜 License
-
-MIT License – free for personal and commercial use.
